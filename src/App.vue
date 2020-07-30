@@ -13,7 +13,7 @@ export default {
         pluginModelPath: 'live2d-widget-model-koharu/assets/',
         tagMode: false,
         debug: false,
-        model: { jsonPath: '/static/live2dw/live2d-widget-model-koharu/assets/koharu.model.json' },
+        model: { jsonPath: './static/live2dw/live2d-widget-model-koharu/assets/koharu.model.json' },
         display: { position: 'left', width: 150, height: 300 },
         mobile: { show: true },
         log: false
